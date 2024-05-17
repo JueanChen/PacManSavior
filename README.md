@@ -6,11 +6,11 @@
    <img src="asset/2024_GROUP_4.JPG"/>
 </div>
 
+Nicky Dickson   kr23498@bristol.ac.uk   nd1221
+
 Juean Chen   ad23091@bristol.ac.uk   ad23091
 
 Xiaokang Fan   dr23824@bristol.ac.uk   SeventyThree73
-
-Nicky Dickson   kr23498@bristol.ac.uk   nd1221
 
 ---
 
