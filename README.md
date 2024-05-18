@@ -357,8 +357,8 @@ Throughout the project, our team maintained constant communication through Whats
 | Maps design & implementation              | Game engineering framework design    | Implemented Entity class to handle collisions|
 | Block design & implementation             | Implement most page designs          | Extended Ghost and Pacman classes to inherit from Entity class|
 | Original pacman movement logic design     | Implement the button class to simplify button implementation | Optimised Pacman movement behaviour and logic|
-| Fix some bugs                             | Implement animation class            | Edited Report                        |
-| Write most of the report                  | Optimize entity classes, extend movement methods and give physical meaning ||
+| Fix some bugs                             | Implement animation class            | Edited Report \(README.md\)                       |
+| Write most of the report \(README.md\)                 | Optimize entity classes, extend movement methods and give physical meaning ||
 | Add sound effect                          | Simplify ghost drawing logic         |                                      |
 |                                           | Design game record manager class     |                                      |
 |                                           | Fix some bugs                        |                                      |
