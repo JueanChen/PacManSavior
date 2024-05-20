@@ -361,7 +361,8 @@ If we had time and resources (and maybe an extra team member) to develop the gam
 
 ## INDIVIDUAL CONTRIBUTION
 
+* Nicky Dickson: 1.00
 * Juean Chen: 1.00
 * Xiaokang Fan: 1.00
-* Nicky Dickson: 1.00
+
 
