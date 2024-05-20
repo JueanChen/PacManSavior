@@ -347,25 +347,6 @@ In the NASA TLX and System Usability Survey (SUS), we let ten players to play tw
 
 Throughout the project, our team maintained constant communication through WhatsApp and met regularly following the Software Engineering workshop to discuss the current state of the project. We used Skype to have online meetings and GitHub to keep a track of our changes. During in-person meetings, we would identify the most important features that needed to be added by the next meeting and divided these features between ourselves. Upon encountering a bug during development, we would discuss it together through WhatsApp in case someone else could think of a quick solution, otherwise we would meet on Skype to share our screens for more transparent communication and sometimes to pair-program a solution. Following two other members dropping out, we made an effort to keep each other aware of any changes or additions to the game to ensure everyone had a good working knowledge of the codebase and addressed questions about changes made during our in-person meetings. This proved very valuable as it allowed us to write code which more easily integrated into the existing codebase and made git conflicts rare. We will continue to practice this in future projects.
 
-* Here are our roles in this game project:
-
-<br>
-
-| Juean Chen                                | Xiaokang Fan                         | Nicky Dickson                        |
-|-------------------------------------------|--------------------------------------|--------------------------------------|
-| UI design & implementation                | Game framework construction          | Implemented pathfinder class to handle Ghost behaviour|
-| Maps design & implementation              | Game engineering framework design    | Implemented Entity class to handle collisions|
-| Block design & implementation             | Implement most page designs          | Extended Ghost and Pacman classes to inherit from Entity class|
-| Original pacman movement logic design     | Implement the button class to simplify button implementation | Optimised Pacman movement behaviour and logic|
-| Fix some bugs                             | Implement animation class            | Edited Report \(README.md\)                       |
-| Write most of the report \(README.md\)                 | Optimize entity classes, extend movement methods and give physical meaning ||
-| Add sound effect                          | Simplify ghost drawing logic         |                                      |
-|                                           | Design game record manager class     |                                      |
-|                                           | Fix some bugs                        |                                      |
-|                                           | Algorithm optimization               |                                      |
-
-<br>
-
 ---
 
 ## PART 8: CONCLUSION
